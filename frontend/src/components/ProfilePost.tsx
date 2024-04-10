@@ -84,7 +84,7 @@ function ProfilePost() {
                     </div>
                   </div>
                   <p className="text-sm md:text-lg">
-                    {post.description.slice(300)}....
+                    {post.description.slice(100)}....
                   </p>
                 </div>
               </div>
